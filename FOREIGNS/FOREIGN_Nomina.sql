@@ -1,0 +1,1 @@
+ALTER TABLE dissaor.nomina ADD COLUMN id_nomina INT, ADD CONSTRAINT fk_id_nomina FOREIGN KEY(id_nomina) REFERENCES usuario(id_usuario);

@@ -1,0 +1,1 @@
+Select COUNT(*) AS total_filas, SUM(Lunes+Martes+Miercoles+Jueves+Viernes+Sabado) AS total_suma FROM nomina; 

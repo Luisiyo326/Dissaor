@@ -1,0 +1,1 @@
+SELECT sum(Lunes+Martes+Miercoles+Jueves+Viernes+Sabado) AS Totales_sum FROM nomina; 

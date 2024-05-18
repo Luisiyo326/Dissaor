@@ -1,0 +1,9 @@
+CREATE TABLE dissaor.nomina(id INT Auto_increment NOT NULL, 
+Salario FLOAT NOT NULL,
+Lunes FLOAT NOT NULL,
+Martes FLOAT NOT NULL,
+Miercoles FLOAT NOT NULL,
+Jueves FLOAT NOT NULL,
+Viernes FLOAT NOT NULL,
+Sabado FLOAT NOT NULL,
+PRIMARY KEY(id)) ENGINE = INNODB

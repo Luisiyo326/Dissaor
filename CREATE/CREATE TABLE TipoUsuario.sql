@@ -1,0 +1,3 @@
+CREATE TABLE Dissaor.TipoUsuario(id_TipoUsuario INT AUTO_INCREMENT NOT NULL,
+NombreTipoUsuario VARCHAR(55) NOT NULL,
+PRIMARY KEY(Id_TipoUsuario)) ENGINE = INNODB;

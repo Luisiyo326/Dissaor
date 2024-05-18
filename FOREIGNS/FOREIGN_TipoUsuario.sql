@@ -1,0 +1,1 @@
+ALTER TABLE dissaor.usuario ADD CONSTRAINT fk_id_TipoUsuario FOREIGN KEY(id_TipoUsuario) REFERENCES usuario(id_TipoUsuario);
